@@ -24,3 +24,7 @@ p {
   margin: 0 20% 0 20%;
   color: rgba(2, 34, 24, 0.48);
 }
+
+iframe {
+  padding: 2%;
+}
