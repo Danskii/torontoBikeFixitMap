@@ -30,3 +30,8 @@ p {
 iframe {
   padding: 2%;
 }
+
+body {
+      background-color: #2b39400a;
+      padding: 5px;
+}
