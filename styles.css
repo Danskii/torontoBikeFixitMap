@@ -3,6 +3,7 @@ h1 {
     color: rgba(2, 34, 24, 0.48);
     text-align: center;
     text-transform: uppercase;
+    padding: 1.2rem;
 }
 
 h3 {
