@@ -18,10 +18,8 @@ p {
     color: rgba(2, 34, 24, 0.48);
     text-align: center;
     text-transform: uppercase;
-
     text-transform: none;
     font-family: arial;
-    letter-spacing: 0.3em;
     text-align: center;
     font-size: 1.3em;
     color: rgba(2, 34, 24, 0.48); 
