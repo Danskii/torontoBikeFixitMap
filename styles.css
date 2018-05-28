@@ -1,30 +1,26 @@
-
 h1 {
-    font: 600 3.5em 'Raleway', sans-serif;
-    color: rgba(2, 34, 24, 0.48);
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: .5em;
-    width: 100%;
-     
+  font: 600 3.5em 'Raleway', sans-serif;
+  color: rgba(2, 34, 24, 0.48);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  width: 100%;
 }
 
 h3 {
-	font: 900 1em 'Raleway', sans-serif;
-    color: rgba(2, 34, 24, 0.48);
-    text-align: center;
-    text-transform: none;
-    letter-spacing: 0.01em;
-       
-
+  font: 900 1em 'Raleway', sans-serif;
+  color: rgba(2, 34, 24, 0.48);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.01em;
 }
 
 p {
-     text-transform: none;
-    font-family: arial;
-     letter-spacing: 0.3em;
-     padding: 20px;
-         line-height: 1.6em;
-             margin: 0 20% 0 20%;
-             color: rgba(2, 34, 24, 0.48);
+  text-transform: none;
+  font-family: arial;
+  letter-spacing: 0.3em;
+  padding: 20px;
+  line-height: 1.6em;
+  margin: 0 20% 0 20%;
+  color: rgba(2, 34, 24, 0.48);
 }
