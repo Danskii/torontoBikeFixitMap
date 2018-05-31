@@ -48,6 +48,7 @@ body {
     margin: 50px 10px 10px 10px;
 }
 
-#twitterShareButton {
-    text-align: right;
+#socalBar {
+    text-align: center;
+    padding: 1%;
 }
