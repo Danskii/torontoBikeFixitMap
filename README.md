@@ -2,6 +2,6 @@
 
 A map of all the Fixit stations in Toronto. What's a Fixit station? It's those bike repair stands you see scattered around the city. Need to find one in a pinch? Use this map!
 
-# Love Cycling? Contribute!
+## Contribute!
 
-I do my best to maintain and update this map. If you'd like to assist please email me dpuiatti@gmail.com. Any help is appreciated!
+Whether you have an idea for how to improve this map, you want to add a Fixit station that is not listed or know of a station that needs repairs, please don't hesitate to reach out! dpuiatti@gmail.com. 
