@@ -1,7 +1,7 @@
 $(document).ready(function(){
   function facebookReady(){
     FB.init({
-      appId  : 'YOUR APP ID',
+      appId  : '1751161804975039',
       status : true,
       cookie : true,
       xfbml  : true
