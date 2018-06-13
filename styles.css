@@ -51,4 +51,10 @@ body {
 #socalBar {
     text-align: center;
     padding: 1%;
+
+}
+
+#twitter-widget-0,
+#socalBar > div {
+ vertical-align: middle;   
 }
