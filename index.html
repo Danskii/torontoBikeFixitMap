@@ -47,7 +47,6 @@
   <script>
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 ga('create', 'UA-105716116-5', 'auto');
-
 // Replace the following lines with the plugins you want to use.
   ga('require', 'cleanUrlTracker');
   ga('require', 'eventTracker');
@@ -60,7 +59,6 @@ ga('create', 'UA-105716116-5', 'auto');
   ga('require', 'socialWidgetTracker');
   ga('require', 'urlChangeTracker');
 // ...
-
 ga('send', 'pageview');
 </script>
 <script async src="https://www.google-analytics.com/analytics.js"></script>
@@ -75,8 +73,8 @@ ga('send', 'pageview');
   <p>Know a location that's missing from the map? <a href="mailto:dpuiatti@gmail.com">Email me</a> and I'll add it pronto!</p>
 
   <div id="socalBar">
-<a onClick="_gaq.push(['_trackEvent', ' Twitter', ‘Click', 'SEO For Beginners');" href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" id="twitterShareButton" data-size="large" data-text="Need to fix your bike in a pinch? Here&#39;s a map of all the Fixit stations in Toronto." data-url="https://danskii.github.io/Toronto-Bike-Fixit-Map/" data-via="Dpuiatti" data-hashtags="cycleTO #Toronto" data-show-count="false">Share 🗺️</a>
-<iframe onClick="_gaq.push(['_trackEvent', ' Facebook', ‘Click', 'SEO For Beginners');" src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdanskii.github.io%2FToronto-Bike-Fixit-Map%2F&layout=button&size=large&mobile_iframe=true&width=73&height=28" width="73" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>  
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" id="twitterShareButton" data-size="large" data-text="Need to fix your bike in a pinch? Here&#39;s a map of all the Fixit stations in Toronto." data-url="https://danskii.github.io/Toronto-Bike-Fixit-Map/" data-via="Dpuiatti" data-hashtags="cycleTO #Toronto" data-show-count="false">Share 🗺️</a>
+<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdanskii.github.io%2FToronto-Bike-Fixit-Map%2F&layout=button&size=large&mobile_iframe=true&width=73&height=28" width="73" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>  
   </div>
   
   <div class="embed-responsive embed-responsive-16by9">
@@ -108,40 +106,5 @@ ga('send', 'pageview');
   </script> 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js">
   </script>
-
-<script>
-window.fbAsyncInit = function() { 
-FB.init({appId: '1751161804975039', status: true, cookie: true, xfbml: true}); 
-FB.Event.subscribe("edge.create",function(url) { 
-if (url.indexOf("facebook.com") > 0) { 
-// if the returned link contains 'facebook,com'. It is a 'Like' 
-// for your Facebook page <br>ga('send', 'social', 'Facebook', 'like', url); 
-} else { 
-// else, somebody is sharing the current page on their wall 
-ga('send', 'Social', 'Facebook', 'Share', url);
-});
-};
-</script>
-<script>
-  function tweetIntentToAnalytics(intent_event) { 
-if (intent_event) { 
-ga('send', 'Social', 'Twitter', 'Tweet', document.location.href); 
-} 
-} 
-function followIntentToAnalytics(intent_event) { 
-if (intent_event) { 
-ga('send', 'Social', 'Twitter', 'Follow', document.location.href); 
-} 
-} 
-if (typeof twttr !== 'undefined') { 
-twttr.ready(function (twttr) { 
-twttr.events.bind('tweet', tweetIntentToAnalytics); 
-twttr.events.bind('follow', followIntentToAnalytics); 
-}); 
-}
-</script>
-
-
-
 </body>
 </html>
