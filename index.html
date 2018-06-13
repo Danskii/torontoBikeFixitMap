@@ -68,13 +68,22 @@ ga('send', 'pageview');
 
 <body>
   
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&autoLogAppEvents=1&version=v3.0&appId=1751161804975039';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
   <h1>Toronto Bike Fixit Map</h1>
   <p>A map of the bike Fixit stations across Toronto.</p>
   <p>Know a location that's missing from the map? <a href="mailto:dpuiatti@gmail.com">Email me</a> and I'll add it pronto!</p>
 
   <div id="socalBar">
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" id="twitterShareButton" data-size="large" data-text="Need to fix your bike in a pinch? Here&#39;s a map of all the Fixit stations in Toronto." data-url="https://danskii.github.io/Toronto-Bike-Fixit-Map/" data-via="Dpuiatti" data-hashtags="cycleTO #Toronto" data-show-count="false">Share 🗺️</a>
-<iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdanskii.github.io%2FToronto-Bike-Fixit-Map%2F&layout=button&size=large&mobile_iframe=true&width=73&height=28" width="73" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>  
+<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
   </div>
   
   <div class="embed-responsive embed-responsive-16by9">
