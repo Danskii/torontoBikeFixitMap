@@ -48,7 +48,13 @@ body {
     margin: 50px 10px 10px 10px;
 }
 
-.addthis_inline_share_toolbox {
+#socalBar {
     text-align: center;
+    padding: 1%;
+
 }
 
+#twitter-widget-0,
+#socalBar > div {
+ vertical-align: middle;   
+}
