@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Danskii/Toronto-Bike-Fixit-Map/precache-manifest.b81a39cb246d5a5531172f0fa6efd42f.js"
+  "/Toronto-Bike-Fixit-Map/precache-manifest.73183904a374785af293bac88d586c6d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Danskii/Toronto-Bike-Fixit-Map/index.html", {
+workbox.routing.registerNavigationRoute("/Toronto-Bike-Fixit-Map/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
