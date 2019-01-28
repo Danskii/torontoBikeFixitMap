@@ -1,14 +1,14 @@
 {
-  "main.css": "/Toronto-Bike-Fixit-Map/static/css/main.427a9a49.chunk.css",
-  "main.js": "/Toronto-Bike-Fixit-Map/static/js/main.b1e6dbfc.chunk.js",
-  "main.js.map": "/Toronto-Bike-Fixit-Map/static/js/main.b1e6dbfc.chunk.js.map",
-  "static/js/1.ee369cc9.chunk.js": "/Toronto-Bike-Fixit-Map/static/js/1.ee369cc9.chunk.js",
-  "static/js/1.ee369cc9.chunk.js.map": "/Toronto-Bike-Fixit-Map/static/js/1.ee369cc9.chunk.js.map",
-  "runtime~main.js": "/Toronto-Bike-Fixit-Map/static/js/runtime~main.b5d4c62d.js",
-  "runtime~main.js.map": "/Toronto-Bike-Fixit-Map/static/js/runtime~main.b5d4c62d.js.map",
-  "static/media/react-share-pin-example.png": "/Toronto-Bike-Fixit-Map/static/media/react-share-pin-example.da3d8140.png",
-  "static/css/main.427a9a49.chunk.css.map": "/Toronto-Bike-Fixit-Map/static/css/main.427a9a49.chunk.css.map",
-  "index.html": "/Toronto-Bike-Fixit-Map/index.html",
-  "precache-manifest.73183904a374785af293bac88d586c6d.js": "/Toronto-Bike-Fixit-Map/precache-manifest.73183904a374785af293bac88d586c6d.js",
-  "service-worker.js": "/Toronto-Bike-Fixit-Map/service-worker.js"
+  "main.css": "/Danskii/Toronto-Bike-Fixit-Map/static/css/main.427a9a49.chunk.css",
+  "main.js": "/Danskii/Toronto-Bike-Fixit-Map/static/js/main.b1e6dbfc.chunk.js",
+  "main.js.map": "/Danskii/Toronto-Bike-Fixit-Map/static/js/main.b1e6dbfc.chunk.js.map",
+  "static/js/1.52700367.chunk.js": "/Danskii/Toronto-Bike-Fixit-Map/static/js/1.52700367.chunk.js",
+  "static/js/1.52700367.chunk.js.map": "/Danskii/Toronto-Bike-Fixit-Map/static/js/1.52700367.chunk.js.map",
+  "runtime~main.js": "/Danskii/Toronto-Bike-Fixit-Map/static/js/runtime~main.6ceabcc9.js",
+  "runtime~main.js.map": "/Danskii/Toronto-Bike-Fixit-Map/static/js/runtime~main.6ceabcc9.js.map",
+  "static/media/react-share-pin-example.png": "/Danskii/Toronto-Bike-Fixit-Map/static/media/react-share-pin-example.da3d8140.png",
+  "static/css/main.427a9a49.chunk.css.map": "/Danskii/Toronto-Bike-Fixit-Map/static/css/main.427a9a49.chunk.css.map",
+  "index.html": "/Danskii/Toronto-Bike-Fixit-Map/index.html",
+  "precache-manifest.b81a39cb246d5a5531172f0fa6efd42f.js": "/Danskii/Toronto-Bike-Fixit-Map/precache-manifest.b81a39cb246d5a5531172f0fa6efd42f.js",
+  "service-worker.js": "/Danskii/Toronto-Bike-Fixit-Map/service-worker.js"
 }
