@@ -54,8 +54,8 @@ import exampleImage from './react-share-pin-example.png';
 
 class Demo extends Component {
   render() {
-    const shareUrl = 'http://github.com';
-    const title = 'GitHub';
+    const shareUrl = 'https://danskii.github.io/Toronto-Bike-Fixit-Map/#/contact';
+    const title = 'Toronto Bike Fixit Map';
 
     return (
       <div className="Demo__container">
@@ -69,11 +69,7 @@ class Demo extends Component {
               round />
           </FacebookShareButton>
 
-          <FacebookShareCount
-            url={shareUrl}
-            className="Demo__some-network__share-count">
-            {count => count}
-          </FacebookShareCount>
+          
         </div>
 
         <div className="Demo__some-network">
@@ -86,9 +82,7 @@ class Demo extends Component {
               round />
           </TwitterShareButton>
 
-          <div className="Demo__some-network__share-count">
-            &nbsp;
-          </div>
+          
         </div>
 
         <div className="Demo__some-network">
@@ -99,9 +93,7 @@ class Demo extends Component {
             <TelegramIcon size={32} round />
           </TelegramShareButton>
 
-          <div className="Demo__some-network__share-count">
-            &nbsp;
-          </div>
+          
         </div>
 
         <div className="Demo__some-network">
@@ -113,9 +105,7 @@ class Demo extends Component {
             <WhatsappIcon size={32} round />
           </WhatsappShareButton>
 
-          <div className="Demo__some-network__share-count">
-            &nbsp;
-          </div>
+          
         </div>
 
         <div className="Demo__some-network">
@@ -127,11 +117,7 @@ class Demo extends Component {
               round />
           </GooglePlusShareButton>
 
-          <GooglePlusShareCount
-            url={shareUrl}
-            className="Demo__some-network__share-count">
-            {count => count}
-          </GooglePlusShareCount>
+          
         </div>
 
         <div className="Demo__some-network">
@@ -146,11 +132,6 @@ class Demo extends Component {
               round />
           </LinkedinShareButton>
 
-          <LinkedinShareCount
-            url={shareUrl}
-            className="Demo__some-network__share-count">
-            {count => count}
-          </LinkedinShareCount>
         </div>
 
         <div className="Demo__some-network">
@@ -163,8 +144,6 @@ class Demo extends Component {
             <PinterestIcon size={32} round />
           </PinterestShareButton>
 
-          <PinterestShareCount url={shareUrl}
-            className="Demo__some-network__share-count" />
         </div>
 
         <div className="Demo__some-network">
@@ -179,8 +158,6 @@ class Demo extends Component {
               round />
           </VKShareButton>
 
-          <VKShareCount url={shareUrl}
-            className="Demo__some-network__share-count" />
         </div>
 
         <div className="Demo__some-network">
@@ -195,8 +172,6 @@ class Demo extends Component {
               round />
           </OKShareButton>
 
-          <OKShareCount url={shareUrl}
-            className="Demo__some-network__share-count" />
         </div>
 
         <div className="Demo__some-network">
@@ -211,8 +186,6 @@ class Demo extends Component {
               round />
           </RedditShareButton>
 
-          <RedditShareCount url={shareUrl}
-            className="Demo__some-network__share-count" />
         </div>
 
         <div className="Demo__some-network">
@@ -227,8 +200,6 @@ class Demo extends Component {
               round />
           </TumblrShareButton>
 
-          <TumblrShareCount url={shareUrl}
-            className="Demo__some-network__share-count" />
         </div>
 
         <div className="Demo__some-network">
