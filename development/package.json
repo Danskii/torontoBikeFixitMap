@@ -1,6 +1,6 @@
 {
-  "homepage": "https://danskii.github.io/Toronto-Meditation-Map/",
-  "name": "toronto-meditation-map",
+  "homepage": "https://danskii.github.io/Toronto-Bike-Fixit-Map/",
+  "name": "toronto-bike-fixit-map",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
