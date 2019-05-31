@@ -70,7 +70,7 @@ class Footer extends Component {
               </a>
               {" "}
               <a
-                href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdanskii.github.io%2FToronto-Bike-Fixit-Map%2F&text=Need%20to%2repair%20your%20bike%20in%20a%20pinch?%20I%20built%20a%20map%20of%20all%20the%20bike%20repair%20stands%20in%20Toronto.%20This%20map%20lists%20them%20all:&hashtags=Toronto%20%23bikeTO%20%23cycleTO"
+                href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdanskii.github.io%2FToronto-Bike-Fixit-Map%2F&text=Need%20to%20repair%20your%20bike%20in%20a%20pinch%3F%20Here's%20a%20map%20of%20all%20the%20free%20bike%20fixit%20stations%20in%20Toronto.&hashtags=Toronto,bikeTO,cycleTO"
                 target="blank"
                 rel="noopener noreferrer"
               >
@@ -80,7 +80,7 @@ class Footer extends Component {
               </a>
               {" "}
               <a
-                href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdanskii.github.io%2FToronto-Bike-Fixit-Map%2F&title=Toronto%20Bike%20Fixit%20Station%20Map&summary=Need%20to%2repair%20your%20bike%20in%20a%20pinch?%20I%20built%20a%20map%20of%20all%20the%20bike%20repair%20stands%20in%20Toronto.%20This%20map%20lists%20them%20all."
+                href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdanskii.github.io%2FToronto-Bike-Fixit-Map%2F&title=Toronto%20Bike%20Fixit%20Map&summary=Need%20to%20repair%20your%20bike%20in%20a%20pinch%3F%20Here's%20a%20map%20of%20all%20the%20free%20bike%20fixit%20stations%20in%20Toronto."
                 target="blank"
                 rel="noopener noreferrer"
               >
