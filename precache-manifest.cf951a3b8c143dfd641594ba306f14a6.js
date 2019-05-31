@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8c61f4ecb84bbf934310fd77a07653e",
+    "revision": "07b3382273942288ef90291cc1fbf092",
     "url": "/Toronto-Bike-Fixit-Map/index.html"
   },
   {
