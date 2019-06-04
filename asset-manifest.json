@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Toronto-Bike-Fixit-Map/static/css/main.39054b92.chunk.css",
-    "main.js": "/Toronto-Bike-Fixit-Map/static/js/main.775346f5.chunk.js",
-    "main.js.map": "/Toronto-Bike-Fixit-Map/static/js/main.775346f5.chunk.js.map",
+    "main.css": "/Toronto-Bike-Fixit-Map/static/css/main.504cb5b4.chunk.css",
+    "main.js": "/Toronto-Bike-Fixit-Map/static/js/main.d8954032.chunk.js",
+    "main.js.map": "/Toronto-Bike-Fixit-Map/static/js/main.d8954032.chunk.js.map",
     "runtime~main.js": "/Toronto-Bike-Fixit-Map/static/js/runtime~main.63ba756e.js",
     "runtime~main.js.map": "/Toronto-Bike-Fixit-Map/static/js/runtime~main.63ba756e.js.map",
-    "static/js/2.b2b57223.chunk.js": "/Toronto-Bike-Fixit-Map/static/js/2.b2b57223.chunk.js",
-    "static/js/2.b2b57223.chunk.js.map": "/Toronto-Bike-Fixit-Map/static/js/2.b2b57223.chunk.js.map",
+    "static/js/2.a9349901.chunk.js": "/Toronto-Bike-Fixit-Map/static/js/2.a9349901.chunk.js",
+    "static/js/2.a9349901.chunk.js.map": "/Toronto-Bike-Fixit-Map/static/js/2.a9349901.chunk.js.map",
     "index.html": "/Toronto-Bike-Fixit-Map/index.html",
-    "precache-manifest.cf951a3b8c143dfd641594ba306f14a6.js": "/Toronto-Bike-Fixit-Map/precache-manifest.cf951a3b8c143dfd641594ba306f14a6.js",
+    "precache-manifest.7e7a540e5d4b7a7370680f3ab060245b.js": "/Toronto-Bike-Fixit-Map/precache-manifest.7e7a540e5d4b7a7370680f3ab060245b.js",
     "service-worker.js": "/Toronto-Bike-Fixit-Map/service-worker.js",
-    "static/css/main.39054b92.chunk.css.map": "/Toronto-Bike-Fixit-Map/static/css/main.39054b92.chunk.css.map",
+    "static/css/main.504cb5b4.chunk.css.map": "/Toronto-Bike-Fixit-Map/static/css/main.504cb5b4.chunk.css.map",
     "static/media/App.css": "/Toronto-Bike-Fixit-Map/static/media/symphony.fcb1692c.png"
   }
 }
