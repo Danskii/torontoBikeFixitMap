@@ -1,7 +1,7 @@
 body {
-  background-image: url("./components/images/symphony.png");
+  /* background-image: url("./components/images/symphony.png"); */
   background-position: bottom;
-  animation: 10s linear 0s infinite bp;
+  /* animation: 10s linear 0s infinite bp; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -83,7 +83,7 @@ width: 45px;
 ANIMATIONS
  * ---------------------------------------------- */
 
-.text-focus-in-first {
+/* .text-focus-in-first {
   -webkit-animation: text-focus-in 3.5s cubic-bezier(0.550, 0.085, 0.680, 0.530);
   animation: text-focus-in 3.5s cubic-bezier(0.550, 0.085, 0.680, 0.530);
 }
@@ -112,7 +112,7 @@ ANIMATIONS
 .slide-out-top {
   -webkit-animation: slide-out-top 2.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 10s forwards;
   animation: slide-out-top 2.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 10s forwards;
-}
+} */
 
 
 
