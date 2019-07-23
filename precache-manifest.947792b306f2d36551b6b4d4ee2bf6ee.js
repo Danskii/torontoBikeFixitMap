@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "232804754c720b08842d65a33582ddfb",
+    "revision": "027abcfadfb1b6cc7b9eb4d3ab20c12b",
     "url": "/Toronto-Bike-Fixit-Map/index.html"
   },
   {
-    "revision": "ee4847bd3dd74126bd25",
+    "revision": "58e1c6486cf027f2faa5",
     "url": "/Toronto-Bike-Fixit-Map/static/css/main.cb721c0f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Toronto-Bike-Fixit-Map/static/js/2.b2b57223.chunk.js"
   },
   {
-    "revision": "ee4847bd3dd74126bd25",
-    "url": "/Toronto-Bike-Fixit-Map/static/js/main.775346f5.chunk.js"
+    "revision": "58e1c6486cf027f2faa5",
+    "url": "/Toronto-Bike-Fixit-Map/static/js/main.34ab16a7.chunk.js"
   },
   {
     "revision": "0e88c240db779f59f879",
