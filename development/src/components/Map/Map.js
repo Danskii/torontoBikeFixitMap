@@ -19,9 +19,10 @@ const Map = compose(
   withScriptjs,
   withGoogleMap
 )(props => (
+  
   <GoogleMap
-    defaultZoom={12}
-    defaultCenter={{ lat: 43.66249657567853, lng: -79.39037738471677 }}
+    defaultZoom={11}
+    defaultCenter={{ lat: 43.7334034, lng: -79.39037738471677 }}
   >
     <KmlLayer
       url={
