@@ -19,7 +19,7 @@ class Footer extends Component {
             <Col>
               {" "}
               <a
-                href="https://danskii.github.io/Daniel-Puiatti/"
+                href="https://danielpuiatti.com/"
                 target="_blank"
                 rel="noopener"
               >
