@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Toronto-Bike-Fixit-Map/precache-manifest.947792b306f2d36551b6b4d4ee2bf6ee.js"
+  "/Toronto-Bike-Fixit-Map/precache-manifest.185cfd81070793f134c4a291712119ea.js"
 );
 
 self.addEventListener('message', (event) => {
